@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Topbar */
+.topbar { font-size: 0.9rem; }
+
+.header-hero { background: linear-gradient(180deg, rgba(37,99,235,0.08), transparent); padding: 3rem 0; }
